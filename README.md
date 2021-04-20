@@ -1,1 +1,1 @@
-# weatherapi-dataminer
+# WeatherAPI.com Data Miner
