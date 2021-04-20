@@ -1,0 +1,7 @@
+# Install via pip3 install -r requirements.txt
+jsonschema==3.2.0
+simplejson==3.16.0
+ujson==4.0.2
+requests==2.23.0
+requests-unixsocket==0.2.0
+mysql-connector-python==8.0.23
